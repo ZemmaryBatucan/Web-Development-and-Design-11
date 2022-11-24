@@ -1,1 +1,1 @@
-# WebDev
+Activity #1: Calculator
